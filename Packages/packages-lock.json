@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.furality.sylvashader": {
+      "version": "file:com.furality.sylvashader",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.llealloo.audiolink": {
+      "version": "file:com.llealloo.audiolink",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.4.11",
       "depth": 1,
@@ -177,6 +189,30 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.2"
       }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "file:dev.vrlabs.av3manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "org.furality.sdk": {
+      "version": "file:com.furality.sdk-1.1.2.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "org.furality.updater": {
+      "version": "file:com.furality.updater-1.0.2.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "file:vrchat.blackstartx.gesture-manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

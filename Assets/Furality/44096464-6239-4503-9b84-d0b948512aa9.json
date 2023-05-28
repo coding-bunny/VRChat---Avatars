@@ -1,0 +1,12 @@
+{
+    "Id": "44096464-6239-4503-9b84-d0b948512aa9",
+    "Version": "1.0.0",
+    "Name": "Attendee Asset Pack",
+    "Description": "Contains miscellaneous assets for use on your avatar!",
+    "ImageUrl": "https://media.furality.online/image/f6/Furality_Sylva_Attendee_Asset_Pack.jpg",
+    "ConventionId": "Furality Sylva",
+    "Category": "Asset Packs",
+    "IsPublic": false,
+    "IsPatreon": false,
+    "AttendanceLevel": 1
+}

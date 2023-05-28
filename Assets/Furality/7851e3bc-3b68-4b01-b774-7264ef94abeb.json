@@ -1,0 +1,12 @@
+{
+    "Id": "7851e3bc-3b68-4b01-b774-7264ef94abeb",
+    "Version": "1.0.0",
+    "Name": "Attendee Badge",
+    "Description": "Badge for attendees!",
+    "ImageUrl": "https://media.furality.online/image/f6/Furality_Sylva_Badges_thumb.jpg",
+    "ConventionId": "Furality Sylva",
+    "Category": "Badges",
+    "IsPublic": false,
+    "IsPatreon": false,
+    "AttendanceLevel": 1
+}
