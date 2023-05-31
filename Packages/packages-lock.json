@@ -197,19 +197,25 @@
       "dependencies": {}
     },
     "org.furality.sdk": {
-      "version": "file:com.furality.sdk-1.1.2.tgz",
+      "version": "file:com.furality.sdk-1.2.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}
     },
     "org.furality.updater": {
-      "version": "file:com.furality.updater-1.0.2.tgz",
+      "version": "file:com.furality.updater-1.0.3.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}
     },
     "vrchat.blackstartx.gesture-manager": {
       "version": "file:vrchat.blackstartx.gesture-manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "file:vrchat.jordo.easyquestswitch",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
