@@ -197,7 +197,7 @@
       "dependencies": {}
     },
     "org.furality.sdk": {
-      "version": "file:com.furality.sdk-1.2.2.tgz",
+      "version": "file:com.furality.sdk-1.2.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}

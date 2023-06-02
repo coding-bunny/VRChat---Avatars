@@ -256,7 +256,7 @@ Material:
     - _ShowGreenAL: 0
     - _ShowGreenGlow: 0
     - _ShowIridescence: 1
-    - _ShowMain: 1
+    - _ShowMain: 0
     - _ShowOutline: 0
     - _ShowOutline2: 0
     - _ShowOutlineAL: 0
